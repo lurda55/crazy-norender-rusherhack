@@ -1,0 +1,16 @@
+{
+  "Plugin-Class": "com.crazyhacks.norender.CrazyNoRenderPlugin",
+  "Name": "${project.plugin_name}",
+  "Version": "${project.plugin_version}",
+  "Description": "Adds a Hotbar Item Names option to NoRender: hides the item name that pops up above the hotbar when you switch slot. Made by lurda55",
+  "URL": "https://github.com/lurda55/crazy-norender-rusherhack",
+  "Authors": [
+    "lurda55"
+  ],
+  "Minecraft-Versions": [
+    "${project.minecraft_version}"
+  ],
+  "Mixin-Configs": [
+    "mixins.crazy-norender.json"
+  ]
+}
